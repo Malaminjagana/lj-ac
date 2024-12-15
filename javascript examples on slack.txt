@@ -1,0 +1,14 @@
+https://redi-school.
+github.io/js-berlin-2024-spring
+
+let totalPrice = 50; // from the task above
+let discountedPrice = totalPrice * 0.9;
+let budget = 40;
+let canPay = discountedPrice >= budget;
+
+Hi Malamin, thanks for the question :) We have a slide on naming convention, e.g. variable names must not start with a number and can’t contain spaces. You can also find more info on MDN here
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#variables
+
+
+
+fjLEF36362
